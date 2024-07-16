@@ -1,3 +1,6 @@
+# Adapted from https://tinyurl.com/redhatosvwin - thanks to Eran Ifrach.
+# Fixed multiple issues with the way this works.
+
 apiVersion: v1
 kind: Pod
 metadata:
